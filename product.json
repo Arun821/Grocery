@@ -1,0 +1,76 @@
+{
+"product":[
+                {
+                    "sNo":1,
+                    "name":"Sugar",
+                    "quantity":2,
+                    "unit":"kg",
+                    "department":"Bakery",
+                    "notes":"Mostdelisius one"
+                },
+                {
+                    "sNo":2,
+                    "name":"Rice",
+                    "quantity":10,
+                    "unit":"kg",
+                    "department":"Bakery",
+                    "notes":"Mostdelisius one"
+                },
+                {
+                    "sNo":3,
+                    "name":"Biscit",
+                    "quantity":2,
+                    "unit":"",
+                    "department":"Bakery",
+                    "notes":"Mostdelisius one"
+                },
+                {
+                    "sNo":4,
+                    "name":"Chicken masal",
+                    "quantity":1,
+                    "unit":"",
+                    "department":"Masala",
+                    "notes":"Mostdelisius one"
+                },
+                {
+                    "sNo":5,
+                    "name":"Soap",
+                    "quantity":2,
+                    "unit":"",
+                    "department":"Beautify",
+                    "notes":"Mostdelisius one"
+                },
+                {
+                    "sNo":6,
+                    "name":"Vegitables",
+                    "quantity":2,
+                    "unit":"kg",
+                    "department":"Vegitables",
+                    "notes":"Mostdelisius one"
+                },
+                {
+                    "sNo":7,
+                    "name":"Orange",
+                    "quantity":2,
+                    "unit":"kg",
+                    "department":"Fruits",
+                    "notes":"Mostdelisius one"
+                },
+                {
+                    "sNo":8,
+                    "name":"Chilly",
+                    "quantity":1,
+                    "unit":"kg",
+                    "department":"Bakery",
+                    "notes":"Mostdelisius one"
+                },
+                {
+                    "sNo":9,
+                    "name":"Sugar",
+                    "quantity":2,
+                    "unit":"kg",
+                    "department":"Bakery",
+                    "notes":"Mostdelisius one"
+                }
+            ]
+}
